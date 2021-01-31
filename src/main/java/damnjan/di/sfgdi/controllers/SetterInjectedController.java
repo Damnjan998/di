@@ -1,6 +1,6 @@
 package damnjan.di.sfgdi.controllers;
 
-import damnjan.di.sfgdi.services.GreetingService;
+import damnjan.services.GreetingService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Controller;

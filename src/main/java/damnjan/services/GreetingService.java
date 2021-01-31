@@ -1,4 +1,4 @@
-package damnjan.di.sfgdi.services;
+package damnjan.services;
 
 public interface GreetingService {
 

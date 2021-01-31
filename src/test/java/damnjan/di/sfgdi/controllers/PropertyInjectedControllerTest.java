@@ -1,6 +1,6 @@
 package damnjan.di.sfgdi.controllers;
 
-import damnjan.di.sfgdi.services.ConstructorInjectedGreetingService;
+import damnjan.services.ConstructorInjectedGreetingService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
